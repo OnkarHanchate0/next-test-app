@@ -13,7 +13,7 @@ export default function Home() {
           dangerouslySetInnerHTML={{
             __html: `
 window._vwo_code || (function() {
-var account_id=893110,
+var account_id=25000792,
 version=2.1,
 settings_tolerance=2000,
 hide_element='body',
